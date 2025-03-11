@@ -1,0 +1,11 @@
+{
+  "name": "reminder",
+  "version": "0.0.0",
+  "description": "reminder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "archanaamrutha",
+  "license": "ISC"
+}
