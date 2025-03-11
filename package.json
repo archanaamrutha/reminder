@@ -4,8 +4,14 @@
   "description": "reminder",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": " npx ts-node src/index.js"
   },
   "author": "archanaamrutha",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10"
+  }
 }
